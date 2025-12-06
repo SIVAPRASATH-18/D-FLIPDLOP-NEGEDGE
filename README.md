@@ -54,17 +54,17 @@ endmodule
 
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by:SIVAPRASATH B
-RegisterNumber:25016007
+Developed by:SIVAPRASATH B   RegisterNumber:25016007
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-<img width="964" height="565" alt="Screenshot 2025-12-06 203302" src="https://github.com/user-attachments/assets/2b900718-fcc3-4436-a4e7-f2a27fd4df8b" />
+<img width="1159" height="627" alt="Screenshot 2025-12-06 210525" src="https://github.com/user-attachments/assets/a1309ded-ba0e-4136-b0de-8600b90aedb0" />
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-<img width="616" height="195" alt="Screenshot 2025-11-22 215525" src="https://github.com/user-attachments/assets/c11efa4d-33cf-4d5c-aa46-53402e846a45" />
+<img width="762" height="159" alt="Screenshot 2025-12-06 210539" src="https://github.com/user-attachments/assets/212bd16b-a4fd-47e0-9308-3a98f742593a" />
 
 
 **RESULTS**
