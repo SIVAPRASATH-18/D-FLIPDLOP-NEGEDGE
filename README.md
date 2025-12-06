@@ -54,9 +54,7 @@ endmodule
 
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
 Developed by:SIVAPRASATH B
-
 RegisterNumber:25016007
 */
 
@@ -64,10 +62,7 @@ RegisterNumber:25016007
 
 <img width="964" height="565" alt="Screenshot 2025-12-06 203302" src="https://github.com/user-attachments/assets/2b900718-fcc3-4436-a4e7-f2a27fd4df8b" />
 
-
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-
 
 <img width="616" height="195" alt="Screenshot 2025-11-22 215525" src="https://github.com/user-attachments/assets/c11efa4d-33cf-4d5c-aa46-53402e846a45" />
 
